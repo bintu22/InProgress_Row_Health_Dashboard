@@ -16,5 +16,6 @@ Elist's database structure as seen below consists of three tables: customers, ca
 ## Recommendations
 
 ## Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bintu.bukari/viz/RowHealth_17516996464300/Dashboard1).
 
 ## Presentation Sample
