@@ -12,6 +12,10 @@ Elist's database structure as seen below consists of three tables: customers, ca
 ![image](https://github.com/user-attachments/assets/dee57db5-fa5b-457a-a23e-76fbd4f9d152)
 
 ## Insights Summary
+In order to evaluate campaign performance, we focused on the following key metrics:
+* **Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
+* **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
+* **Click through Rate:** The percent of people who see a campaign and click on the associated link.
 
 ## Recommendations
 
