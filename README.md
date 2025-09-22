@@ -20,6 +20,6 @@ In order to evaluate campaign performance, we focused on the following key metri
 ## Recommendations
 
 ## Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bintu.bukari/viz/RowHealth_17516996464300/Dashboard1).
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bintu.bukari/viz/RowHealth_17516996464300/CampaignCategoryDashboard).
 
 ## Presentation Sample
