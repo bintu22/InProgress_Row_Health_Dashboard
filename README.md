@@ -17,9 +17,5 @@ In order to evaluate campaign performance, we focused on the following key metri
 * **Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
 * **Click through Rate:** The percent of people who see a campaign and click on the associated link.
 
-## Recommendations
-
 ## Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/bintu.bukari/viz/RowHealth_17516996464300/CampaignCategoryDashboard).
-
-## Presentation Sample
